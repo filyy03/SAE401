@@ -12,8 +12,8 @@ include_once './lib/portfolio-function.php';
 	<link rel="stylesheet" href="assets/css/flexslider.css">
 	<link rel="stylesheet" href="assets/fonts/icomoon/style.css">
 
-	<link rel="stylesheet" href="css/bootstrap.css">
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="assets/css/bootstrap.css">
+	<link rel="stylesheet" href="assets/css/style.css">
 
 	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700" rel="stylesheet">
 	<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>

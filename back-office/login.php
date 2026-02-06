@@ -2,7 +2,7 @@
 
 <?php
 session_start();
-require_once "./lib/config.php"; // connexion BDD
+require_once "../lib/config.php"; // connexion BDD
 
 $message = ""; // cela le message d'erreur affiché en cas d’échec de connexion
 
