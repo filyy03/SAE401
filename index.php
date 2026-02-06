@@ -1,5 +1,5 @@
 <?php
-include_once './back-office/portfolio-function.php';
+include_once './lib/portfolio-function.php';
 ?>
 
 <!DOCTYPE html>
@@ -8,9 +8,9 @@ include_once './back-office/portfolio-function.php';
 	<title>SAE 4.01</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="stylesheet" href="css/animate.css">
-	<link rel="stylesheet" href="css/flexslider.css">
-	<link rel="stylesheet" href="fonts/icomoon/style.css">
+	<link rel="stylesheet" href="assets/css/animate.css">
+	<link rel="stylesheet" href="assets/css/flexslider.css">
+	<link rel="stylesheet" href="assets/fonts/icomoon/style.css">
 
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/style.css">
